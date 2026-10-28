@@ -1,6 +1,6 @@
 from pathlib import Path
 from xml.sax.saxutils import escape
-from reportlab.platypus import SimpleDocTemplate,Paragraph,Spacer,Table,TableStyle,PageBreak,KeepTogether
+from reportlab.platypus import SimpleDocTemplate,Paragraph,Spacer,Table,TableStyle,PageBreak,KeepTogether,Image
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib.enums import TA_LEFT
 from reportlab.lib import colors
@@ -14,8 +14,10 @@ small=ParagraphStyle('Small',parent=body,fontSize=8.3,leading=11)
 cell=ParagraphStyle('Cell',parent=body,fontSize=8.8,leading=11,spaceAfter=0)
 blocks=(R/'documentacao/memorial_descritivo.md').read_text().split('\n\n')
 story=[]
-# Text identification, not a reconstructed institutional logo.
-story.append(Paragraph('UNIGRAN',ParagraphStyle('Brand',fontName='Helvetica-Bold',fontSize=17,leading=21,textColor=navy)))
+# Logo fornecida pelo aluno; preservar proporção e arquivo original.
+logo=Image(str(R/'documentacao/identidade/logo_unigran.png'))
+logo.drawWidth=48*mm;logo.drawHeight=logo.drawWidth*logo.imageHeight/logo.imageWidth;logo.hAlign='LEFT'
+story.extend([logo,Spacer(1,7)])
 story.append(Paragraph('ENGENHARIA CIVIL  |  PROVA DE DESENHO TÉCNICO',small));story.append(Spacer(1,6))
 story.append(Paragraph('MEMORIAL DESCRITIVO',ParagraphStyle('Title',fontName='Helvetica-Bold',fontSize=22,leading=26,textColor=navy)))
 story.append(Paragraph('Edificação de uso misto · Dourados–MS',ParagraphStyle('Subtitle',parent=body,fontSize=11,leading=16,textColor=muted)))

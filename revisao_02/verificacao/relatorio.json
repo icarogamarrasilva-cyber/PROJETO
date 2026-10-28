@@ -46,9 +46,10 @@
   },
   "memorial_descritivo": {
     "paginas": 2,
-    "identificacao": "UNIGRAN em texto; logo oficial nao utilizado",
+    "identificacao": "Logo UNIGRAN fornecida pelo aluno em ZIP; imagem original preservada",
     "conteudo_e_areas_conferidos": true,
-    "texto_dentro_dos_limites_da_pagina": true
+    "texto_dentro_dos_limites_da_pagina": true,
+    "imagens_incorporadas": 1
   },
   "referencias_legais": {
     "paginas": 4
