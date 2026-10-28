@@ -1,0 +1,10 @@
+Item;Quantidade;Area unitaria bruta m2;Area total m2
+Terreno;1;1000;1000
+Loja;3;128;384
+Comum terreo;1;96;96
+Apartamento;4;84;336
+Corredor superior;1;48;48
+Hall/nucleo superior;1;96;96
+Total construido;1;960;960
+Area livre;1;520;520
+Permeavel proposta;1;240;240

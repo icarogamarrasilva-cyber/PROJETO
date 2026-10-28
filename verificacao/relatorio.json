@@ -1,0 +1,16 @@
+{
+  "dxf_reaberto": true,
+  "erros_auditoria_dxf": 0,
+  "correcoes_auditoria": 0,
+  "entidades_modelspace": 732,
+  "cotas_nativas": 20,
+  "pranchas": 6,
+  "consistencia_areas": "OK",
+  "unidade_dxf": "metro (INSUNITS=6)",
+  "pdf_pranchas_reaberto": true,
+  "paginas_pranchas": 6,
+  "paginas_memorial": 3,
+  "svg_validos": 6,
+  "modulos_apartamentos_sem_sobreposicao": true,
+  "limites": "Auditoria de formato, áreas modulares e integridade; não certifica normas ou projeto executivo."
+}

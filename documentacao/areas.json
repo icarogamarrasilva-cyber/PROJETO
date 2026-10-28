@@ -1,0 +1,22 @@
+{
+  "terreno_m2": 1000,
+  "projecao_m2": 480,
+  "terreo_m2": 480,
+  "superior_m2": 480,
+  "total_construido_m2": 960,
+  "lojas_m2": [
+    128,
+    128,
+    128
+  ],
+  "apartamentos_m2": [
+    84,
+    84,
+    84,
+    84
+  ],
+  "comum_terreo_m2": 96,
+  "comum_superior_m2": 144,
+  "livre_m2": 520,
+  "permeavel_proposta_m2": 240
+}
