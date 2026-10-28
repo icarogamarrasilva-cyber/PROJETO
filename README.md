@@ -1,33 +1,34 @@
-# Edifício misto — Dourados/MS
+# Projeto arquitetônico acadêmico — Icaro Gamarra Silva
 
-Estudo arquitetônico conceitual criado do zero para lote hipotético de **20 × 50 m**, com dois pavimentos, três lojas e quatro apartamentos de dois quartos.
+**Versão atual: revisão 02**, com carimbo do aluno e professora, plantas mobiliadas/cotadas, detalhes de portas/janelas, cortes, quatro fachadas e vistas/modelo 3D.
 
-## Entregas
+- [Baixar pacote REV02](PROJETO_ICARO_REV02.zip)
+- [Abrir as oito pranchas A2 em PDF](revisao_02/pranchas/projeto_academico_Icaro.pdf)
+- [Memorial descritivo](revisao_02/documentacao/memorial_descritivo.pdf)
+- [DXF 2D editável](revisao_02/cad/projeto_academico_2d.dxf)
+- [DXF 3D editável](revisao_02/cad/projeto_academico_3d.dxf)
+- [Informações da versão e arquivos Blender/OBJ](revisao_02/README.md)
+- [Análise da LUOS e Código de Obras fornecidos pelo aluno](revisao_02/documentacao/referencias_legais.pdf)
+- [Conferência do enunciado](revisao_02/documentacao/conferencia_enunciado.pdf)
 
-- `cad/estudo_misto_dourados.dxf`: desenho editável em metros, DXF R2010, com seis conjuntos separados horizontalmente no modelspace, camadas por função e cotas nativas.
-- `pranchas/projeto_conceitual.pdf`: seis pranchas A3, com implantação/cobertura, térreo, superior, dois cortes, quatro fachadas e quadro de áreas. Impressão ajustada à página; usar cotas, não medir o PDF como escala fixa.
-- `pranchas/01.svg` a `06.svg`: versões vetoriais individuais.
-- `documentacao/memorial_descritivo.md` e `.pdf`: programa, distribuição, hipóteses, materiais e pendências.
-- `documentacao/quadro_areas.csv` e `areas.json`: áreas brutas e indicadores.
-- `verificacao/relatorio.json`: auditoria do DXF e conferência aritmética.
-- `scripts/gerar_projeto.py`: fonte reproduzível da geometria e pranchas.
+Aluno: **Icaro Gamarra Silva — RGM 3322.527**. Professora: **Rafaella Scalon**. Engenharia Civil — Prova de desenho técnico — 28/10/2026.
 
-## Síntese
+Lote hipotético de 20 × 50 m em Dourados-MS; três lojas e quatro apartamentos familiares. Revisão atual: 913,80 m² cobertos e 46,20 m² de pátios descobertos, totalizando 960 m² de pisos utilizáveis. Não confundir área coberta com área construída incluindo pátios.
 
-Projeção de 16 × 30 m, recuos hipotéticos de 10 m na frente/fundo e 2 m nas laterais. Área construída conceitual de **960 m²**, ocupação de 48%. Cada loja ocupa módulo bruto de 128 m²; cada apartamento, 84 m². A circulação residencial é independente das lojas.
+Imprimir PDF em A2 paisagem, tamanho real/100%, sem ajustar à página. A documentação gráfica é acadêmica; conformidade integral legal/ABNT não certificada. A análise detalha os itens comparados e as limitações de localização, atividade comercial, vagas e normas.
 
-## Regenerar
+Arquivos na raiz em `cad`, `pranchas`, `documentacao` e o ZIP `projeto_conceitual_dourados.zip` correspondem ao histórico inicial. **Para a versão atual, usar `revisao_02` e `PROJETO_ICARO_REV02.zip`.**
 
-Python 3.11 ou superior. Instalar `python -m pip install -r scripts/requirements.txt` em ambiente virtual e executar, na raiz:
+## Reprodução
+
+Usar o checkout existente, sem criar worktree. Dependências em `scripts/requirements.txt`, mais Blender 4.3 e PyMuPDF. Na raiz do repositório:
 
 ```sh
-MPLCONFIGDIR=/tmp/mpl-projeto XDG_CACHE_HOME=/tmp/cache-projeto python scripts/gerar_projeto.py
-python scripts/gerar_memorial.py
-python scripts/verificar.py
+python scripts/gerar_revisao.py
+blender -b -t 2 --python scripts/renderizar_revisao.py
+python scripts/gerar_revisao.py
+python scripts/documentar_revisao.py
+python scripts/verificar_revisao.py
 ```
 
-Não é necessário servidor. Usar o checkout existente; não criar worktree para este fluxo. Os scripts sobrescrevem somente as entregas geradas indicadas acima. Não executar após edição manual do DXF sem salvar uma cópia.
-
-## Limites de uso
-
-Não é projeto executivo, legal aprovado ou levantamento do imóvel. Não foram fornecidos endereço, inscrição imobiliária, topografia, orientação real nem consulta urbanística. As dimensões de ambientes são modulares brutas; não certificam áreas úteis. Estacionamento, acessibilidade integral, elevador, ventilação mecânica, incêndio e estrutura precisam de desenvolvimento profissional. Ver o memorial antes de utilizar o desenho.
+A segunda geração das pranchas incorpora as imagens recém-renderizadas. Os scripts sobrescrevem os arquivos gerados da revisão; guardar cópia antes de editar DXF/Blender manualmente.

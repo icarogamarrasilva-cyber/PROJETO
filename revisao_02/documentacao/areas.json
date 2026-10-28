@@ -1,0 +1,16 @@
+{
+  "terreno_m2": 1000,
+  "projecao_m2": 480,
+  "terreo_coberto_m2": 480,
+  "superior_coberto_m2": 433.8,
+  "total_coberto_m2": 913.8,
+  "construida_incluindo_patios_m2": 960,
+  "loja_bruta_m2": 128,
+  "apartamento_coberto_bruto_m2": 72.45,
+  "patio_por_apartamento_m2": 11.55,
+  "comum_terreo_m2": 96,
+  "comum_superior_m2": 144,
+  "patios_superiores_descobertos_m2": 46.2,
+  "livre_solo_m2": 520,
+  "permeavel_proposta_m2": 200
+}

@@ -1,0 +1,73 @@
+{
+  "projeto_academico_2d": {
+    "erros_auditoria": 0,
+    "correcoes_auditoria": 0,
+    "entidades": 2759,
+    "layouts": 10,
+    "cotas_nativas": 77,
+    "arcos_abertura": 39
+  },
+  "projeto_academico_3d": {
+    "erros_auditoria": 0,
+    "correcoes_auditoria": 0,
+    "entidades": 4428,
+    "layouts": 2,
+    "altura_maxima_m": 8.1
+  },
+  "comparacoes_codigo_transcrito": {
+    "espelho_m": 0.17500000000000002,
+    "blondel_m": 0.6300000000000001,
+    "patio_livre_estimado_m2": 10.53,
+    "aberturas_70pct": {
+      "quarto": [
+        2.31,
+        2.066666666666667
+      ],
+      "sala": [
+        4.787999999999999,
+        4.666666666666667
+      ],
+      "cozinha": [
+        1.3719999999999997,
+        1.0541666666666667
+      ],
+      "banho": [
+        0.6719999999999999,
+        0.515625
+      ]
+    },
+    "seis_sanitarios_comerciais": true
+  },
+  "pdf": {
+    "pranchas": 8,
+    "formato": "A2 paisagem",
+    "carimbos_conferidos": 8,
+    "vistas_3d_incorporadas": 2
+  },
+  "memorial_descritivo": {
+    "paginas": 3
+  },
+  "referencias_legais": {
+    "paginas": 4
+  },
+  "conferencia_enunciado": {
+    "paginas": 2
+  },
+  "areas": {
+    "terreno_m2": 1000,
+    "projecao_m2": 480,
+    "terreo_coberto_m2": 480,
+    "superior_coberto_m2": 433.8,
+    "total_coberto_m2": 913.8,
+    "construida_incluindo_patios_m2": 960,
+    "loja_bruta_m2": 128,
+    "apartamento_coberto_bruto_m2": 72.45,
+    "patio_por_apartamento_m2": 11.55,
+    "comum_terreo_m2": 96,
+    "comum_superior_m2": 144,
+    "patios_superiores_descobertos_m2": 46.2,
+    "livre_solo_m2": 520,
+    "permeavel_proposta_m2": 200
+  },
+  "conformidade_integral_legal_ABNT": "NAO CERTIFICADA; ver referencias_legais.pdf"
+}
