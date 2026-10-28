@@ -45,7 +45,10 @@
     "vistas_3d_incorporadas": 2
   },
   "memorial_descritivo": {
-    "paginas": 3
+    "paginas": 2,
+    "identificacao": "UNIGRAN em texto; logo oficial nao utilizado",
+    "conteudo_e_areas_conferidos": true,
+    "texto_dentro_dos_limites_da_pagina": true
   },
   "referencias_legais": {
     "paginas": 4

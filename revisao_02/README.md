@@ -6,7 +6,7 @@ Professora: Rafaella Scalon | Engenharia Civil | Prova de desenho técnico | Ent
 ## Abrir primeiro
 
 1. `pranchas/projeto_academico_Icaro.pdf`: oito folhas A2 com carimbo, escalas, implantação, cobertura, plantas mobiliadas/cotadas, cortes, quatro fachadas, detalhes, apartamento ampliado e duas vistas 3D.
-2. `documentacao/memorial_descritivo.pdf`: memorial simplificado.
+2. `documentacao/memorial_descritivo.pdf`: memorial objetivo em duas páginas A4, com identificação UNIGRAN em texto, dados acadêmicos e quadro de áreas.
 3. `documentacao/referencias_legais.pdf`: análise da LUOS enviada e limitações de conformidade.
 4. `documentacao/conferencia_enunciado.pdf`: relação entre requisitos e entregas.
 

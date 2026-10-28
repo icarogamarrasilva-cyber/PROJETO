@@ -1,57 +1,53 @@
-# Memorial descritivo simplificado — revisão 02
+# Memorial descritivo
 
-Aluno: Icaro Gamarra Silva. RGM: 3322.527. Professora: Rafaella Scalon. Curso: Engenharia Civil. Avaliação: Prova de desenho técnico. Entrega: 28/10/2026.
+UNIGRAN — Engenharia Civil  
+Prova de desenho técnico — Edificação de uso misto em Dourados–MS  
+Aluno: Icaro Gamarra Silva | RGM: 3322.527  
+Professora: Rafaella Scalon | Entrega: 28/10/2026
 
-## 1. Objeto e implantação
+## 1. Caracterização e implantação
 
-Proposta acadêmica de edifício misto em Dourados–MS: dois pavimentos, três lojas comerciais e quatro apartamentos familiares de dois quartos. Terreno hipotético e plano de 20,00 × 50,00 m (1.000,00 m²), sem endereço ou zona informados, conforme orientação do aluno. Rua na testada de 20 m e norte hipotético ao fundo.
+O projeto propõe um edifício de dois pavimentos, com três lojas no térreo e quatro apartamentos familiares no superior, em terreno hipotético de 20,00 × 50,00 m, totalizando 1.000,00 m². O bloco de 16,00 × 30,00 m ocupa 480,00 m² do lote. Foram adotados afastamentos de 12,00 m na frente, 8,00 m no fundo e 2,00 m nas laterais, com norte hipotético voltado ao fundo.
 
-Origem no canto esquerdo da testada; X na largura e Y na profundidade. Bloco entre X=2 e 18 m e Y=12 e 42 m, com projeção de 480,00 m². Afastamentos adotados: 12 m na frente, 8 m no fundo e 2 m nas laterais. Rota residencial pela lateral oeste, sem passagem pelo interior das lojas. Jardins ao fundo e na lateral leste.
+O acesso às lojas ocorre pelo pátio frontal. O setor residencial possui entrada independente pela lateral oeste, ligada ao hall e à circulação vertical posterior. A implantação reserva jardins ao fundo e na lateral leste.
 
-## 2. Térreo e acessos
+## 2. Organização dos ambientes
 
-Três lojas em módulos brutos de 5,333 × 24,00 m, com 128,00 m² cada. Salão flexível, copa e dois sanitários separados por sexo em cada loja, sendo um com arranjo adaptável ampliado. Pé-direito de 4,00 m, comparado ao art. 37 I c do Código de Obras transcrito. Portas comerciais duplas com vão nominal de 1,60 m, a detalhar para garantir pelo menos 1,50 m livres após marcos, conforme art. 37 III.
+Térreo: três lojas de 128,00 m² brutos cada, com salão comercial, copa e dois sanitários separados por sexo. O pé-direito proposto é de 4,00 m; as entradas possuem portas duplas com vão nominal de 1,60 m. A faixa posterior de 96,00 m² reúne hall, escada, reserva de elevador e apoios.
 
-Sanitários comerciais com módulo de 2,20 × 2,40 m e portas abrindo para fora. Há reserva de exaustão mecânica a cobertura. O salão comercial também depende de sistema de iluminação/ventilação dimensionado por profissional habilitado, conforme exceção para locais de trabalho do art. 25; a vitrine frontal sozinha não foi declarada suficiente para iluminar todo o salão. Não foram definidos ramos das atividades comerciais, lotação ou projeto de incêndio.
+Superior: quatro apartamentos com estar/jantar, dois quartos, cozinha com serviço integrado, banheiro e pátio descoberto. Cada unidade possui 72,45 m² brutos cobertos e 11,55 m² de pátio, totalizando 84,00 m² de piso. Salas e quartos recebem aberturas laterais; cozinhas e banheiros voltam-se aos pátios, cuja área livre estimada é de 10,53 m² por unidade.
 
-Faixa posterior de 16 × 6 m (96 m²) para hall, escada, reserva de elevador e apoios. Porta residencial nominal de 1,30 m, com objetivo de preservar 1,20 m livres após os batentes. Entrada pela lateral oeste, no setor posterior.
+A escada em U vence 4,20 m em dois lances de 1,20 m, com patamar intermediário, 24 espelhos de 17,50 cm e pisos de 28 cm. A relação de Blondel resulta em 63 cm. O corredor coletivo tem largura livre indicativa de 1,85 m. Há reserva de 2,00 × 2,00 m para elevador, sujeita à seleção e ao dimensionamento do equipamento.
 
-## 3. Superior e conforto
+## 3. Áreas externas e conforto
 
-Quatro módulos residenciais de 7 × 12 m, com 84,00 m² de piso cada. Por unidade: 72,45 m² brutos cobertos e 11,55 m² de pátio descoberto, com dimensão nominal de 2,75 × 4,20 m e livre estimada de 2,60 × 4,05 m (10,53 m²). O pátio atende como hipótese geométrica à área mínima de 10 m² indicada no art. 27 II para a cozinha, ambiente de permanência prolongada. A dimensão livre deve ser preservada na compatibilização.
+São propostas seis vagas internas ao lote: quatro vinculadas aos apartamentos, uma acessível e uma para idoso. As vagas comuns medem 2,40 × 5,00 m; a acessível, 3,60 × 5,00 m, com faixa lateral adicional de 1,20 m. O pátio inclui faixa de manobra de 5,80 m e passeio de 1,20 m diante das lojas.
 
-Módulos brutos por apartamento: estar/jantar 7 × 4 m (28 m²); dois quartos de 3,10 × 4 m (12,40 m² cada); cozinha/serviço 2,75 × 2,30 m (6,325 m²); banheiro 2,75 × 1,50 m (4,125 m²); circulação interna 1,15 × 8 m (9,20 m²); pátio 11,55 m². Soma: 84,00 m². Áreas úteis descontam paredes, marcos e outras interferências.
+A área permeável proposta é de 200,00 m², equivalente a 20% do terreno. Os pátios elevados não entram nesse cálculo. Janelas e pátios favorecem iluminação e ventilação naturais; os sanitários comerciais dispõem de reserva para exaustão mecânica. Sombreamento e proteção térmica da cobertura devem considerar a orientação real do lote.
 
-Quartos e estar/jantar têm aberturas laterais diretas. Cozinha e banheiro têm janelas para o pátio descoberto. J1 nos quartos: 2,20 × 1,50 m; J5 na sala: 3,60 × 1,90 m; J2 na cozinha: 1,40 × 1,40 m; J4 no banho: 1,20 × 0,80 m. Adota-se esquadria com abertura efetiva mínima de 70% da área nominal, a especificar, sem folhas invadindo a rota de circulação. O cálculo comparativo com arts. 25 e 26 consta da documentação legal; não é certificação de produto ou ensaio ambiental.
+## 4. Materiais e soluções construtivas
 
-Mobiliário representado: camas, armários, sofá, mesa e assentos, bancadas, lavanderia integrada, lavatório, vaso e box. Desenhos ampliados permitem leitura das portas e distribuição interna. Pátios impermeabilizados com ralos; sua área não é permeabilidade do solo.
+Estrutura proposta em concreto armado, alvenaria de vedação com espessura indicativa de 15 cm, laje intermediária de 20 cm e cobertura de 15 cm. Os níveis de referência são: térreo ±0,00 m; superior +4,20 m; cobertura +7,20 m; platibanda +8,10 m. O pé-direito residencial proposto é de 2,85 m.
 
-## 4. Circulação vertical e segurança
+A cobertura leve termoacústica terá inclinação indicativa de 5%, sujeita ao fabricante, com calhas, rufos e condutores. Os pátios permanecerão descobertos, com impermeabilização e ralos. Propõem-se pintura externa clara, caixilhos de alumínio grafite, vidros a especificar e revestimentos laváveis nas áreas molhadas. No comércio, os pisos devem resistir ao tráfego previsto.
 
-Corredor coletivo nominal de 2 m, com 1,85 m livres indicativos; corredor interno dos apartamentos nominal de 1,15 m, com aproximadamente 1 m livres. Escada em U com lances de 1,20 m e patamar de 1,20 m, vencendo 4,20 m em 24 espelhos de 17,50 cm, com piso de 28 cm. Relação de Blondel: 2 × 17,50 + 28 = 63 cm, comparada ao intervalo de 62 a 64 cm informado no art. 19. Patamar intermediário a +2,10 m. São 11 pisos por lance entre patamares, com 12 espelhos em cada lance.
+## 5. Quadro de áreas
 
-Reserva de elevador de 2 × 2 m. Não foi selecionado equipamento ou demonstrada acessibilidade integral do pavimento superior; a mera reserva não constitui acesso acessível pronto. Corrimãos, guarda-corpos, altura livre, sinalização e enquadramento de saída de emergência precisam de verificação específica. O Código transcrito exige prevenção contra incêndio nos apartamentos e acessos independentes no uso misto (arts. 30 e 31).
+| Componente | Área |
+|---|---|
+| Terreno | 1.000,00 m² |
+| Térreo coberto: lojas e áreas comuns | 480,00 m² |
+| Superior coberto: apartamentos e áreas comuns | 433,80 m² |
+| Área coberta total | 913,80 m² |
+| Pátios superiores descobertos | 46,20 m² |
+| Área de pisos, incluindo pátios utilizáveis | 960,00 m² |
+| Área livre no solo | 520,00 m² |
+| Área permeável proposta | 200,00 m² |
 
-## 5. Estacionamento e paisagismo
+As áreas são brutas e incluem paredes e reservas. A ocupação geométrica é de 48%; a relação entre pisos utilizáveis e terreno é de 0,96. O cômputo legal do coeficiente de aproveitamento depende dos critérios municipais aplicáveis.
 
-Seis vagas propostas: AP01–AP04, PCD e idoso. Vagas comuns 2,40 × 5 m; acessível 3,60 × 5 m, mais transferência lateral de 1,20 m. Faixa frontal de manobra de 5,80 m e passeio transversal de 1,20 m antes das lojas. Vagas inteiramente dentro do terreno. Quantidade comercial depende da Tabela 05 vigente, localização e atividade, e não está comprovada apenas pela proposta de seis vagas.
+## 6. Referências e alcance
 
-Área de solo natural proposta de 200 m² (20%): jardim posterior 160 m² e 40 m² da faixa lateral leste entre Y=22 e 42 m. Área livre no solo de 520 m². Calçada pública, guia, acesso viário e trajetórias de manobra não foram cadastrados ou simulados.
+O estudo considera a LUOS municipal nº 205/2012 no arquivo fornecido, com alterações indicadas até a LC nº 404/2021, e o Código de Obras nº 1.391/1986 transcrito pelo aluno. As verificações por dispositivo constam no relatório de referências legais.
 
-## 6. Níveis, materiais e detalhes
-
-Térreo ±0,00; superior +4,20; cobertura +7,20; platibanda +8,10 m. Laje intermediária de 20 cm e cobertura de 15 cm, ambas indicativas. Pés-direitos antes de forros: 4 m no comércio e 2,85 m na habitação. Estrutura de concreto a dimensionar e alvenaria de vedação de 15 cm indicativos.
-
-Cobertura leve termoacústica, inclinação proposta de 5% sujeita ao fabricante, com rufos e calhas. O 3D mostra o fechamento da cobertura como volume simplificado, sem espessura real de telhas ou detalhamento da inclinação. Pátios permanecem abertos. Acabamentos claros; caixilhos em alumínio grafite; vidros e portas a especificar. Áreas molhadas com revestimentos laváveis e impermeabilização.
-
-Detalhes incluem escada, batente e folha de porta, janela com marco e montante, sanitário e esquema de rufo/pingadeira com rodapé impermeável. Não são detalhes executivos de fabricação ou montagem.
-
-## 7. Quadro de áreas
-
-Térreo coberto 480,00 m² = 384,00 m² de lojas + 96,00 m² comuns. Superior coberto 433,80 m² = 289,80 m² nas quatro unidades + 144,00 m² comuns. Total coberto 913,80 m². Pátios superiores descobertos: 46,20 m². Piso construído incluindo pátios utilizáveis: 960,00 m², segundo a definição transcrita no art. 3 VII. Indicador geométrico incluindo pátios: 0,96; somente coberto: 0,9138. Confirmar critérios de computabilidade da LUOS para o coeficiente legal. Ocupação geométrica: 48%.
-
-## 8. Referências e limites
-
-Consultada a LUOS nº 205/2012 no PDF fornecido, com alterações indicadas até LC nº 404/2021, e a transcrição do Código de Obras nº 1.391/1986 enviada pelo aluno, com atualizações mencionadas até 2016. O cabeçalho da transcrição traz numeração divergente; a referência adotada segue o corpo da lei. Não se confirmou atualização legislativa posterior.
-
-Faltam localização/zona, enquadramento das atividades, Tabela 05 com quantitativos, dimensionamento de sistemas, validação de acessibilidade, incêndio e textos ABNT integrais. A documentação apresenta verificações pontuais e hipóteses; não comprova atendimento integral às leis e normas e não autoriza execução sem desenvolvimento por profissional habilitado.
+Por se tratar de lote hipotético, permanecem sujeitos à confirmação o zoneamento, a quantidade exigida de vagas e a legislação vigente. Estrutura, instalações, acessibilidade integral e segurança contra incêndio dependem de desenvolvimento técnico. Este memorial acompanha a proposta acadêmica e não constitui projeto executivo ou comprovação de conformidade integral às normas.
