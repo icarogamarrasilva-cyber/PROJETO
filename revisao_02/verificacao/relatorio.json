@@ -49,7 +49,9 @@
     "identificacao": "Logo UNIGRAN fornecida pelo aluno em ZIP; imagem original preservada",
     "conteudo_e_areas_conferidos": true,
     "texto_dentro_dos_limites_da_pagina": true,
-    "imagens_incorporadas": 1
+    "imagens_incorporadas": 1,
+    "logo_largura_mm": 48,
+    "logo_dentro_da_pagina": true
   },
   "referencias_legais": {
     "paginas": 4

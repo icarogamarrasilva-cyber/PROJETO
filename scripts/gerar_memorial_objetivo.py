@@ -15,8 +15,10 @@ cell=ParagraphStyle('Cell',parent=body,fontSize=8.8,leading=11,spaceAfter=0)
 blocks=(R/'documentacao/memorial_descritivo.md').read_text().split('\n\n')
 story=[]
 # Logo fornecida pelo aluno; preservar proporção e arquivo original.
-logo=Image(str(R/'documentacao/identidade/logo_unigran.png'))
-logo.drawWidth=48*mm;logo.drawHeight=logo.drawWidth*logo.imageHeight/logo.imageWidth;logo.hAlign='LEFT'
+from reportlab.lib.utils import ImageReader
+logo_path=R/'documentacao/identidade/logo_unigran.png'
+logo_w,logo_h=ImageReader(str(logo_path)).getSize()
+logo=Image(str(logo_path),width=48*mm,height=48*mm*logo_h/logo_w);logo.hAlign='LEFT'
 story.extend([logo,Spacer(1,7)])
 story.append(Paragraph('ENGENHARIA CIVIL  |  PROVA DE DESENHO TÉCNICO',small));story.append(Spacer(1,6))
 story.append(Paragraph('MEMORIAL DESCRITIVO',ParagraphStyle('Title',fontName='Helvetica-Bold',fontSize=22,leading=26,textColor=navy)))
